@@ -1,2 +1,2 @@
-# GBI6_ExamenParcial1
+# GBI6_ExamenParcial
 Detalles del Examen 
